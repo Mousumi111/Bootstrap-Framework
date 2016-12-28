@@ -1,0 +1,202 @@
+*{margin:0;padding:0}
+.bg{
+    background: url(img/siapc_background_03.jpg);
+    border-bottom: 10px solid rgba(128, 128, 128, 0.71);
+}
+.logo{}
+.logo_img{
+	height: 120px;
+    width: 151px;
+    margin-left: 149px;
+}
+.logo_img img{
+    height: 106px;
+    width: 128px;
+}
+.logo_text{
+    margin-left: -306px;
+}
+.logo_text h2{
+	color: white;
+    font-size: 35px;
+}
+.logo_text p{
+	color: #3F51B5;
+    font-size: 17px;
+}
+
+.menu{}
+.menu ul{
+	padding: 0;
+    margin: 0;
+}
+.menu ul li{
+	float:left;
+	list-style:none
+}
+.menu ul li a{
+	padding: 10px 29px;
+    text-decoration: none;
+    display: block;
+    margin-top: 19px;
+    font-size: 17px;
+	color:white
+}
+.menu ul li a:hover{
+	background:#3F51B5;
+	box-shadow:0px 0px 5px 5px}
+.bg-2{
+	
+}
+.banner{
+    height: 177px;
+    width: 333px;
+	margin-left: 238px;
+    margin-bottom: 74px;
+    margin-top: 52px;
+}
+.banner img{
+	height: 177px;
+    width: 333px;
+    border: 3px solid white;
+    border-radius: 10px;
+}
+.banner_text{}
+.banner_text h2{
+	color: white;
+    font-size: 40px;
+    margin-top: 48px;
+    margin-bottom: 20px;
+}
+.banner_text p{
+	    color: white;
+}
+.banner_text span{
+	font-size: 18px;
+    color: #00f1ff;
+}
+.first{}
+.first h2{    
+	color: #03263c;
+    text-align: center;
+}
+.content{}
+.emo{
+    height: 111px;
+    width: 169px;
+}
+.emo img{
+    height: 103px;
+    width: 121px;
+    margin-left: 41px;
+}
+.paragraph{
+	    width: 213px;
+}
+.paragraph p{
+	color: gray;
+    text-align: left;
+    font-size: 12px;
+
+}
+.border{
+	    border-bottom: 2px solid rgba(128, 128, 128, 0.3);
+}
+.details{}
+.details h2{
+	color: #042840;
+    margin-top: 42px;
+    font-size: 23px;
+	margin-bottom: 20px;
+}
+.details p{
+    margin-bottom: 42px;
+	margin-bottom: 42px;
+}
+.bg-2{background:url(img/766661898-paul-background2.jpg)}
+.bg-3{    background: #110f10;}
+.footer{}
+.inbox{
+    margin-left: 123px;
+    margin-top: 37px;
+}
+.inbox img{
+	width: 37px;
+}
+.text-2{
+	    text-align: center;
+}
+.text-2 h2{
+	    color: white;
+    font-size: 20px;
+}
+.text-2 p{
+	    text-align: center;
+    color: white;
+}
+.form{
+	margin-left: -39px;
+}
+.text{
+	padding: 7px 25px;
+    background: rgba(128, 128, 128, 0.42);
+    border: 1px solid;
+}
+.submit{}
+.form{
+	 margin-left: 14px;
+
+}
+.form p{
+	color: #607D8B;
+}
+.form span{}
+.form-1{    margin-left: -41px;}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
